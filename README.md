@@ -2,7 +2,7 @@
 ## ERBB2 Amplification and Transcrtiptomic Analysis in Breast Cancer
 
 ### Overview
-
+This repository contains a R script which implements a bioinformatics pipeline to analyse breast cancer data from The Cancer Genome Atlas (TCGA)
 ### Data Sources
 All datasets used for this assignment were obtained from the TCGA BRCA Pan-Cancer Atlas (2018):
 - Clinical Patient Data
